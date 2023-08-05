@@ -1,0 +1,41 @@
+label{
+    
+    display: block;
+    padding: 10px;
+}
+form{
+    text-align: center;
+    background-color:rgb(189, 227, 230);
+    margin: 0px 550px 0px 550px;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #1a8686;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #1aa693;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-image:linear-gradient( rgb(89, 212, 221), white);
+    
+}
+#submit{
+    color: rgb(25, 71, 89);
+}
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNGux51ytrkedicyKH7eeqYuWuveuaiundQ&usqp=CAU);
+    background-size: cover;
+}
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }

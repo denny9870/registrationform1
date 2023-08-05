@@ -1,0 +1,22 @@
+body{
+    background-image:url(https://img.freepik.com/premium-photo/abstract-blur-beautiful-pastel-color-summer-concept-blurred-defocused-effect-background-blur-beautiful-nature-palm-leaf_7182-24.jpg?size=626&ext=jpg) ;
+    background-size: cover;
+}
+label{
+    
+    display: block;
+    padding: 10px;
+}
+form{
+    text-align: center;
+    background-color:rgb(216, 228, 234) ;
+    margin: 0px 550px 0px 550px;
+}
+h1{
+    text-align: center;
+    background-color:rgb(135, 172, 196);
+    margin: 50px 550px 50px 550px;
+}
+#submit{
+    color: rgb(25, 71, 89);
+}
